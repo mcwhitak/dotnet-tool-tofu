@@ -74,7 +74,6 @@ public class TofuRunner
         Console.Error.WriteLine($"Downloading OpenTofu {version} for {os}/{arch}...");
 
         using var httpClient = new HttpClient();
-        httpClient.DefaultRequestHeaders.UserAgent.ParseAdd("dotnet-tool-tofu/0.1.0");
 
         using var response = await httpClient.GetAsync(downloadUrl);
         if (!response.IsSuccessStatusCode)
