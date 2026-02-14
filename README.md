@@ -1,4 +1,5 @@
 # dotnet-tool-tofu
+[![NuGet version (dotnet-tool-tofu)](https://img.shields.io/nuget/v/dotnet-tool-tofu?style=flat-square)](https://www.nuget.org/packages/dotnet-tool-tofu/)
 
 Inspired by [dotnet-terraform](https://github.com/phillipsj/dotnet-terraform), this project provides a .NET tool interface for interacting with [OpenTofu](https://opentofu.org/).
 
