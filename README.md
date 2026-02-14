@@ -19,7 +19,7 @@ While MSBuild is not flexible enough to create custom solution level tasks, bein
 
 ## Options
 
-By default this tool downloads OpenTofu v1.9.0. To use a different version, pass `--tofu-version`:
+By default this tool downloads OpenTofu v1.11.5 (latest at the time of writing this). To use a different version, pass `--tofu-version`:
 
 ```
 dotnet tofu --tofu-version 1.8.0 plan
