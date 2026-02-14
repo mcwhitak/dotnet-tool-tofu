@@ -8,6 +8,13 @@
         "tofu"
       ],
       "rollForward": false
+    },
+    "dotnet-tool-tofu": {
+      "version": "1.0.0",
+      "commands": [
+        "tofu"
+      ],
+      "rollForward": false
     }
   }
 }
