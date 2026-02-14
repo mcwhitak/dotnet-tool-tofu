@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="../src/DotnetTofu.csproj" />
+    <ProjectReference Include="../src/dotnet-tool-tofu.csproj" />
   </ItemGroup>
 
 </Project>

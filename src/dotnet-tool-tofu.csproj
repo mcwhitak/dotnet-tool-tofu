@@ -10,7 +10,7 @@
     <ToolCommandName>tofu</ToolCommandName>
     <PackageOutputPath>../nupkg</PackageOutputPath>
 
-    <PackageId>DotnetTofu</PackageId>
+    <PackageId>dotnet-tool-tofu</PackageId>
     <Description>A .NET tool that downloads and proxies OpenTofu commands.</Description>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>

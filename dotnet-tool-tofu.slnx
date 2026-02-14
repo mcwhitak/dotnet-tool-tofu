@@ -1,8 +1,8 @@
 <Solution>
   <Folder Name="/src/">
-    <Project Path="src/DotnetTofu.csproj" />
+    <Project Path="src/dotnet-tool-tofu.csproj" />
   </Folder>
   <Folder Name="/test/">
-    <Project Path="test/DotnetTofu.Tests.csproj" />
+    <Project Path="test/dotnet-tool-tofu.tests.csproj" />
   </Folder>
 </Solution>
