@@ -2,13 +2,6 @@
   "version": 1,
   "isRoot": true,
   "tools": {
-    "dotnettofu": {
-      "version": "0.1.0",
-      "commands": [
-        "tofu"
-      ],
-      "rollForward": false
-    },
     "dotnet-tool-tofu": {
       "version": "1.0.0",
       "commands": [
