@@ -6,7 +6,7 @@ namespace DotnetTofu;
 
 public class TofuRunner
 {
-    public const string DefaultTofuVersion = "1.13.1";
+    public const string DefaultTofuVersion = "1.13.9";
 
     public static (string Version, List<string> PassArgs) ParseArguments(string[] args)
     {
